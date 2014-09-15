@@ -47,12 +47,12 @@
                         <nav id="main-nav"  style="margin-top:0px;">
                             <ul>
                                 <li>
-                                    <a href="#">Services</a>
+                                    <a href="services.php">Services</a>
                                     <ul>
-                                        <li><a href="#">Amenities</a></li>
-                                        <li><a href="#">Fitness Club</a></li>
-                                        <li><a href="#">Business Center</a></li>
-                                        <li><a href="#">Swimming Pool</a></li>
+                                        <li><a href="services.php#Amenities">Amenities</a></li>
+                                        <li><a href="services.php#FitnessClub">Fitness Club</a></li>
+                                        <li><a href="services.php#BusinessCenter">Business Center</a></li>
+                                        <li><a href="services.php#SwimmingPool">Swimming Pool</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -82,11 +82,12 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="#">Dining</a>
+                                    <a href="dining.php">Dining</a>
                                     <ul>
-                                        <li><a href="#">La Foutaine Restaurant</a></li>
-                                        <li><a href="#">Tea Lounge</a></li>
-                                        <li><a href="#">Room Service</a></li>
+                                        <li><a href="dining.php#LaFontaineRestaurant">La Foutaine Restaurant</a></li>
+                                        <li><a href="dining.php#TeaLounge">Tea Lounge</a></li>
+                                        <li><a href="dining.php#LobbyLounge">Lobby Lounge</a></li>
+                                        <li><a href="dining.php#RoomService">Room Service</a></li>
                                         <li><a href="#">Gallery</a></li>
                                     </ul>
                                 </li>
